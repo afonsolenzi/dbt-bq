@@ -3,9 +3,7 @@
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
 name: 'jaffle_shop'
->>>>>>> ccde1f0f509f3219243c360eb2869bd8d382a688
->>>>>>> 82d916da7b972e8e15f6eb622e2019920ef54408
->>>>>>> 196c87427b98c327f070e8bb35f024777befce5e
+<<<<<<< HEAD
 version: '1.0.0'
 config-version: 2
 
@@ -43,4 +41,7 @@ models:
     +materialized: table
     example:
       +materialized: view
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4db2546235f4c4c6eeca4bf2bcb29a0414b4dd2f
